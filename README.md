@@ -1,2 +1,2 @@
 # CyclisticBikeShareCaseStudy
-This is an example case study based off the fictional bike sharing company Cyclistic. 
+This is an example case study based off the fictional bike sharing company Cyclistic. The idea of the case study is to analyze user data and provide possible solutions to increase conversion from casual users to subscribers of the program. The data was collected, then cleaned and manipulated, analyzed, and then visualized to provide clear insights. In the end, it was uncovered that while the casual rider has longer durations of rides, they use the program less frequently than that of subscribed members. In order to increase conversion, targetting these two key pieces of information would be the best course of action. 
